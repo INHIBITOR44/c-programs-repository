@@ -8,8 +8,8 @@ int main(){
    if (age>10){
 
 
-     printf("sale bhot bada hogya madar\n");
-     printf("teri mkc\n");
+     printf("age badi hai \n");
+     printf("age greater than req\n");
 }
    
 else {

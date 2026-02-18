@@ -2,12 +2,12 @@
 
 int main() {
     int a;
-    printf("a daal madar: ");
+    printf("a daal : ");
     scanf("%d", &a);
 
     switch(a) {
         case 1:
-            printf("1 dala lode\n");
+            printf("1 dala \n");
             break;
         case 2:
             printf("2 dala \n");
@@ -16,7 +16,7 @@ int main() {
             printf("3 dala \n");
             break;
         default:
-            printf("kuch to dalde madar\n");
+            printf("kuch to dalde \n");
             break; 
     }
 

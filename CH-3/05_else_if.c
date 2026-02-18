@@ -5,21 +5,21 @@ int main()
 int age=17;
 
 if (age>60){
-printf("gaadi chala le lode maje kar buddha ho gya ");
+printf("gaadi chala le  maje kar buddha ho gya ");
 }
  
 else if (age>40){
 
-    printf("shrey ki lulli"); 
+    printf("thik hai chala le"); 
 }
 
 
 else if(age>18){
-    printf("chala le lode maje kaer");
+    printf("chala le  maje kar");
 }
 
     else{
-        printf("choti lulli vala shrey");
+        printf("abi tem hai");
 
 
     }
