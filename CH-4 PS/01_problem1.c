@@ -3,12 +3,13 @@
 int main(){
     
 int n;
+printf("number daal \n",n);
 scanf("%d",&n);
 
 for(int i=0;i<=10;i++){
 
 
-    printf("%d * %d = %d\n",n,i,n*i);
+    printf("%d x %d = %d\n",n,i,n*i);
 }
 
 
