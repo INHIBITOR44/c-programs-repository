@@ -10,8 +10,11 @@ float average(int a,int b,int c){
 
 
 int main(){
-    scanf("number bata muje ")
-    printf("%d ,%d ,%d sabka average hai %f",a,b,c average);
+    
+    int a,b,c;
+    printf("Teen numbers dalo sir: ",a,b,c);
+    scanf(" %d%d%d",&a,&b,&c);
+    printf("%d ,%d ,%d sabka average hai %f",a,b,c, average(a,b,c));
 
 
 
