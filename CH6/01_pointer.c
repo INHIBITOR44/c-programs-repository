@@ -8,7 +8,7 @@ int main(){
 
     printf("i ke address ki value hai %p\n",&i);
     printf("j ke address ki value hai %p\n",j);
-    printf("k ki baat karte hai %d", *(&i));
+    printf("k   hai %d", *(&i));
 
     return 0;
 }
